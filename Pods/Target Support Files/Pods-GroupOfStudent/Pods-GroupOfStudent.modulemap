@@ -1,0 +1,6 @@
+framework module Pods_GroupOfStudent {
+  umbrella header "Pods-GroupOfStudent-umbrella.h"
+
+  export *
+  module * { export * }
+}
